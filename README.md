@@ -6,7 +6,8 @@ A face recognition application based on Gabor filter , Zernike Moment and Histog
 
 <br />
 * The following codes are used in this project; thanks to its respective owners
+
 <br />
-[github/mhaghighat/gabor](https://github.com/mhaghighat/gabor)
+https://github.com/mhaghighat/gabor
 <br />
-[matlabcentral/fileexchange/38900-zernike-moments](https://in.mathworks.com/matlabcentral/fileexchange/38900-zernike-moments)
+https://in.mathworks.com/matlabcentral/fileexchange/38900-zernike-moments
