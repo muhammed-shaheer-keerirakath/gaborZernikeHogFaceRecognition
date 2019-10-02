@@ -1,6 +1,8 @@
 # Gabor Zernike Hog based Face Recognition
-A face recognition application based on Gabor filter , Zernike Moment and Histogram of Oriented Gradient filter. Implemented in Matlab.
+A face recognition application based on Gabor filter , Zernike Moment and Histogram of Oriented Gradient filter. Implemented in Matlab (Matlab AppDesigner).
 <br />
+The ORL face database is used for this project.
+<br/>
 
 ![alt text](https://raw.githubusercontent.com/shaheershukur/gaborZernikeHogFaceRecognition/master/face_rec_screenshot.JPG)
 
